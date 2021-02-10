@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "philiproush",
-  "homepage": "https://philiproush.github.io/porfoliopdr/",
+  "homepage": "https://philiproush.github.io/",
   "version": "1.1.0",
   "scripts": {
     "build": "react-scripts build",
