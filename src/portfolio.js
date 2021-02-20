@@ -13,9 +13,9 @@ const greeting = {
   nickname: "",
   full_name: "Philip Roush",
   subTitle:
-    "Full Stack Developer, Web Development Enthusiast. Always learning.",
+    "Full Stack Developer/Web Development and Information Systems Professional. Sports Fanatic: Baseball, Basketball, Football & Golf. Always learning.",
   resumeLink:
-    "https://media-exp1.licdn.com/dms/document/C4D2DAQFjsD5thMHomw/profile-treasury-document-pdf-analyzed/0/1612454756978?e=1613062800&v=beta&t=Hrte66AwL5u_QLW4LkRX0lyRnMw8M7PDcc5Q2TigTzU",
+    "https://media-exp1.licdn.com/dms/document/C4E2DAQFSEYk95_o1yg/profile-treasury-document-pdf-analyzed/0/1613786107228?e=1613872800&v=beta&t=Vjq8Jgu7luffbtE7yRgPt1RosAdHoIQucKZKHYarZsM",
   mail: "mailto:philipdroush@gmail.com",
 };
 
@@ -267,7 +267,8 @@ const degrees = {
       descriptions: [
         "⚡ The ability to visualize geographic data with their associated attribute information through GIS also enhances people’s understanding of locational problems.",
         "⚡ Theories and real-world problem-solving skills in environmental, physical, and human geography, geographic information sciences, and geographic education.",
-        "⚡ I have implemented several projects based on what I've leart under my Information System courses. ",
+        "⚡ I have implemented several projects based on what I've learned from my Information System courses. ",
+        "⚡ Minor in Business: Marketing"
       ],
       website_link: "http://mycatalog.txstate.edu/courses/geo/",
     },
@@ -293,15 +294,6 @@ const certifications = {
         "https://www.nucamp.co/bootcamp-overview/web-development-fundamentals",
       alt_name: "deeplearning.ai",
       color_code: "#E2405F",
-    },
-    {
-      title: "Minor",
-      subtitle: "Business Administration",
-      logo_path: "TXST.png",
-      certificate_link:
-        "http://mycatalog.txstate.edu/undergraduate/mccoy-business-administration/business-administration-minor/",
-      alt_name: "Texas State University",
-      color_code: "#8C151599",
     },
   ],
 };
